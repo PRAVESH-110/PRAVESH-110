@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravesh-110&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh-110" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravesh-110" alt="pravesh-110" /></a> </p>
+
 
 - 🔭 I’m currently working on **Fundflow (A decenralized crowdfunding platform)**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-pravesh-dhakals-projects.vercel.app/] (https://personal-portfolio-pravesh-dhakals-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at https://personal-portfolio-pravesh-dhakals-projects.vercel.app/
 
 - 📫 How to reach me **pravdhakal110@gmail.com**
 
-- 📄 Know about my experiences [https://personal-portfolio-pravesh-dhakals-projects.vercel.app/] (https://personal-portfolio-pravesh-dhakals-projects.vercel.app/)
+- 📄 Know about my experiences  https://personal-portfolio-pravesh-dhakals-projects.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
