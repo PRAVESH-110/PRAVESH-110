@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Fundflow (A decenralized crowdfunding platform)**
 
-- 👨‍💻 All of my projects are available at [https://pravesh-110.github.io/PERSONAL-PORTFOLIO/](https://pravesh-110.github.io/PERSONAL-PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-pravesh-dhakals-projects.vercel.app/] (https://personal-portfolio-pravesh-dhakals-projects.vercel.app/)
 
 - 📫 How to reach me **pravdhakal110@gmail.com**
 
-- 📄 Know about my experiences [https://pravesh-110.github.io/PERSONAL-PORTFOLIO/](https://pravesh-110.github.io/PERSONAL-PORTFOLIO/)
+- 📄 Know about my experiences [https://personal-portfolio-pravesh-dhakals-projects.vercel.app/] (https://personal-portfolio-pravesh-dhakals-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
