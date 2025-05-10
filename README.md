@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Fundflow (A decenralized crowdfunding platform)**
+- 🔭 I’m currently working on **SeiFun (A decenralized no code token creation platform)**
 
 - 👨‍💻 All of my projects are available at https://personal-portfolio-pravesh-dhakals-projects.vercel.app/
 
