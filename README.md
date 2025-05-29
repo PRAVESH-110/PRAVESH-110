@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **SeiFun (A decenralized no code token creation platform)**
+- 🔭 I’m currently working on **SeiFun- View live ( https://www.seifun.xyz/ )**
 
 - 👨‍💻 All of my projects are available at https://personal-portfolio-pravesh-dhakals-projects.vercel.app/
 
