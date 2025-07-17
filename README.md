@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **SeiFun- View live ( https://www.seifun.xyz/ )**
 
-- 👨‍💻 All of my projects are available at https://personal-portfolio-pravesh-dhakals-projects.vercel.app/
+- 👨‍💻 All of my projects are available at : https://personalportfolio-pravesh.vercel.app/
 
 - 📫 How to reach me **pravdhakal110@gmail.com**
 
-- 📄 Know about my experiences  https://personal-portfolio-pravesh-dhakals-projects.vercel.app/
+- 📄 Know about my experiences : https://personalportfolio-pravesh.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
