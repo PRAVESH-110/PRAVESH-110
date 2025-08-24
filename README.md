@@ -5,8 +5,6 @@
 
 
 
-- 🔭 I’m currently working on **SeiFun- View live ( https://www.seifun.xyz/ )**
-
 - 👨‍💻 All of my projects are available at : https://personalportfolio-pravesh.vercel.app/
 
 - 📫 How to reach me **pravdhakal110@gmail.com**
