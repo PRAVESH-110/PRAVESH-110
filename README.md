@@ -5,9 +5,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at : https://personalportfolio-pravesh.vercel.app/
+- 👨‍💻 You can view my projects at : https://personalportfolio-pravesh.vercel.app/
 
-- 📫 How to reach me **pravdhakal110@gmail.com**
+- 📫 Reach me at: **pravdhakal110@gmail.com**
 
 - 📄 Know about my experiences : https://personalportfolio-pravesh.vercel.app/
 
