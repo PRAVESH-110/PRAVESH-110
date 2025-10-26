@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 You can view my projects at : [https://personalportfolio-pravesh.vercel.app/](https://personal-portfolio-git-old-deployment-pravesh-dhakals-projects.vercel.app/)
+- 👨‍💻 You can view my projects at : (https://personal-portfolio-git-old-deployment-pravesh-dhakals-projects.vercel.app/)
 
 - 📫 Reach me at: **pravdhakal110@gmail.com**
 
