@@ -6,7 +6,7 @@
 
 
 - 👨‍💻 You can view my projects at : (https://personalportfolio-pravesh.vercel.app/)
-
+- Currently building : https://gurukul-ecru.vercel.app/
 - 📫 Reach me at: **pravdhakal110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
