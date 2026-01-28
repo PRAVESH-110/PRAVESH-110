@@ -5,7 +5,7 @@
 
 
 
-- Let's connect : [https://personalportfolio-pravesh.vercel.app/](https://www.linkedin.com/in/pravesh-dhakal/)
+- Let's connect : [(https://www.linkedin.com/in/pravesh-dhakal/)](https://www.linkedin.com/in/pravesh-dhakal/)
 - Currently building : https://gurukul-ecru.vercel.app/
 - 📫 Reach me at: **pravdhakal110@gmail.com**
 
