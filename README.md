@@ -6,7 +6,8 @@
 
 
 - Let's connect : [(https://www.linkedin.com/in/pravesh-dhakal/)](https://www.linkedin.com/in/pravesh-dhakal/)
-- Currently building : https://gurukul-ecru.vercel.app/
+- Currently building : [https://gurukul-ecru.vercel.app/](https://checkmysitee.onrender.com/)
+- Check out : (https://personalportfolio-pravesh.vercel.app/)
 - 📫 Reach me at: **pravdhakal110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
