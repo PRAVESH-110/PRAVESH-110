@@ -7,7 +7,7 @@
 
 - Let's connect : [(https://www.linkedin.com/in/pravesh-dhakal/)](https://www.linkedin.com/in/pravesh-dhakal/)
 - Currently building : [https://checkmysite.vercel.app/](https://checkmysite.vercel.app/)
-- Check out : (https://personalportfolio-pravesh.vercel.app/)
+- Check out my portfolio : (https://personalportfolio-pravesh.vercel.app/)
 - 📫 Reach me at: **pravdhakal110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
