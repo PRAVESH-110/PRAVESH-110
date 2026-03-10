@@ -6,7 +6,7 @@
 
 
 - Let's connect : [(https://www.linkedin.com/in/pravesh-dhakal/)](https://www.linkedin.com/in/pravesh-dhakal/)
-- Currently building : [https://checkmysite.vercel.app/](https://checkmysite.vercel.app/)
+- Currently building : [https://checkmysite.vercel.app/](https://checkmysite.vercel.app/) , [https://gurukul-ecru.vercel.app/](https://gurukul-ecru.vercel.app/)
 - Check out my portfolio : (https://personalportfolio-pravesh.vercel.app/)
 - Reach me at: **pravdhakal110@gmail.com**
 
