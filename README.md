@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Pravesh Dhakal</h1>
+<h1 align="center"> Hi, I'm Pravesh Dhakal</h1>
 
 <h3 align="center">
 Full-Stack Developer | Next.js • NestJS • PostgreSQL • TypeScript
 </h3>
 
 <p align="center">
-I build scalable web applications, SaaS products, APIs, and developer tools focused on performance, clean architecture, and great user experiences.
+I build/ try to build stuff that solves a problem.
 </p>
 
 <p align="center">
@@ -22,56 +22,21 @@ I build scalable web applications, SaaS products, APIs, and developer tools focu
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### 🔍 CheckMySite
+### CheckMySite
 A website analysis platform that helps identify performance, SEO, and optimization opportunities.
 
 🌐 https://checkmysite.vercel.app/
 
-**Tech Stack**
-- Next.js
-- TypeScript
-- Tailwind CSS
-- PostgreSQL
-- Drizzle ORM
-
----
 
 ### 🎓 Gurukul
 An educational platform focused on improving learning experiences through a modern web interface.
 
 🌐 https://gurukul-ecru.vercel.app/
 
-**Tech Stack**
-- React
-- JavaScript
-- Tailwind CSS
-- Node.js
 
----
-
-# 💡 What I Build
-
-✅ SaaS Applications
-
-✅ Full-Stack Web Platforms
-
-✅ REST APIs
-
-✅ Authentication Systems
-
-✅ Admin Dashboards
-
-✅ Developer Tools
-
-✅ Performance & SEO Solutions
-
-✅ AI-Powered Features
-
----
-
-# 🛠️ Tech Stack
+# Current Stack
 
 ### Frontend
 
@@ -112,18 +77,8 @@ An educational platform focused on improving learning experiences through a mode
 
 ---
 
-# 🌱 Currently Learning
 
-- Advanced System Design
-- Scalable Backend Architecture
-- Kubernetes
-- AWS Cloud Services
-- CI/CD Pipelines
-- Distributed Systems
-
----
-
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pravesh-110&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -137,17 +92,8 @@ An educational platform focused on improving learning experiences through a mode
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-110&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pravesh-110&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravesh-110&theme=tokyo-night&hide_border=true" />
@@ -161,20 +107,9 @@ An educational platform focused on improving learning experiences through a mode
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
 
-# 🎯 2026 Goals
 
-- Build impactful SaaS products
-- Contribute more to Open Source
-- Master Backend Architecture
-- Deepen expertise in PostgreSQL & Drizzle ORM
-- Learn Kubernetes & Cloud Infrastructure
-- Ship products used by thousands of users
-
----
-
-# 📫 Let's Connect
+#  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pravesh-dhakal/">
