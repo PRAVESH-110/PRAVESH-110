@@ -15,9 +15,6 @@ I build/ try to build stuff that solves a problem.
   <a href="mailto:pravdhakal110@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/pravesh-110">
-    <img src="https://img.shields.io/github/followers/pravesh-110?style=for-the-badge" />
-  </a>
 </p>
 
 ---
@@ -91,22 +88,6 @@ An educational platform focused on improving learning experiences through a mode
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-110&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-
-#  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravesh-110&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 
 
 #  Let's Connect
