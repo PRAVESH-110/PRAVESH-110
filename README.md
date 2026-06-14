@@ -27,7 +27,7 @@ A website analysis platform that helps identify performance, SEO, and optimizati
 https://checkmysite.vercel.app/
 
 
-### 🎓 Gurukul
+### Gurukul
 An educational platform focused on improving learning experiences through a modern web interface.
 
 🌐 https://gurukul-ecru.vercel.app/
