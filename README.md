@@ -24,7 +24,7 @@ I build/ try to build stuff that solves a problem.
 ### CheckMySite
 A website analysis platform that helps identify performance, SEO, and optimization opportunities.
 
-🌐 https://checkmysite.vercel.app/
+https://checkmysite.vercel.app/
 
 
 ### 🎓 Gurukul
