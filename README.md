@@ -30,7 +30,7 @@ https://checkmysite.vercel.app/
 ### Gurukul
 An educational platform focused on improving learning experiences through a modern web interface.
 
-🌐 https://gurukul-ecru.vercel.app/
+https://gurukul-ecru.vercel.app/
 
 
 # Current Stack
