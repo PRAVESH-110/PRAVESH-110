@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Pravesh Dhakal</h1>
+<h1 align="center"> Hi, I'm Pravesh </h1>
 
 <h3 align="center">
 Full-Stack Developer | Next.js • NestJS • PostgreSQL • TypeScript • MongoDB
