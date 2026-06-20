@@ -31,9 +31,7 @@ https://gurukul-ecru.vercel.app/
 
 # Current Stack
 
-### Frontend
-
-<p>
+### Frontend   <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 </p>
 
