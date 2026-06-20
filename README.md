@@ -21,17 +21,17 @@ I build/ try to build stuff that solves a problem.
 
 # Featured Projects
 
-### CheckMySite: A website analysis platform that helps identify performance, SEO, and optimization opportunities.
-https://checkmysite.vercel.app/
+### CheckMySite: A website analysis platform that helps identify performance, SEO, and optimization opportunities. Live Link: https://checkmysite.vercel.app/  
 
 
-### Gurukul: An educational platform focused on improving learning experiences through a modern web interface.
-https://gurukul-ecru.vercel.app/
+### Gurukul: An educational platform focused on improving learning experiences through a modern web interface. Live Link: https://gurukul-ecru.vercel.app/
 
 
 # Current Stack
 
-### Frontend   <p>
+### Frontend   
+
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 </p>
 
