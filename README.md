@@ -21,15 +21,11 @@ I build/ try to build stuff that solves a problem.
 
 # Featured Projects
 
-### CheckMySite
-A website analysis platform that helps identify performance, SEO, and optimization opportunities.
-
+### CheckMySite: A website analysis platform that helps identify performance, SEO, and optimization opportunities.
 https://checkmysite.vercel.app/
 
 
-### Gurukul
-An educational platform focused on improving learning experiences through a modern web interface.
-
+### Gurukul: An educational platform focused on improving learning experiences through a modern web interface.
 https://gurukul-ecru.vercel.app/
 
 
