@@ -69,21 +69,3 @@ I build/ try to build stuff that solve a problem.
 ---
 
 
-
-#  Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pravesh-dhakal/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pravdhakal110@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/p.r.a.v.e.s.h_11">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" />
-  </a>
-</p>
-
-
