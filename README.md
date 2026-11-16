@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Pravesh </h1>
 
 <h3 align="center">
-Full-Stack Developer | Next.js • NestJS • PostgreSQL • TypeScript • MongoDB • CI/CD
+Software Engineer | Next.js • NestJS • PostgreSQL • TypeScript • MongoDB • CI/CD
 </h3>
 
 <p align="center">
