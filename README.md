@@ -7,7 +7,6 @@ Software Engineer | Next.js • NestJS • PostgreSQL • TypeScript • MongoDB
 <p align="center">
 I build/ try to build stuff that solve a problem.
 </p>
----
 
 # Featured Projects
 
